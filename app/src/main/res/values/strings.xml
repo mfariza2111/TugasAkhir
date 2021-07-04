@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TugasAkhirB</string>
+    <string name="Button">btn</string>
+    <string name="KodeBarang">kBarang</string>
+    <string name="Alamat">almt</string>
+</resources>
