@@ -9,6 +9,6 @@ public class NotifikasiPelanggan extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_notifikasi_pelanggan);
+        setContentView(R.layout.activity_notifikasi_pelanggan); // agar layout kedua bisa dipanggil atau muncul
     }
 }
